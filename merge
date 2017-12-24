@@ -1,8 +1,8 @@
-def addition{+}
+def addition{+}--
 add a+b
-def substraction{-}
+def substraction{-}--
 sub a-b
-def multiplication{*}
+def multiplication{*}--
 mul a*b
-def division{/}
+def division{/}--
 div a/b
